@@ -352,7 +352,7 @@ ScrollTrigger.matchMedia({
           end: `bottom top`,
           scrub: 2,
         },
-        backgroundPositionY: "60%",
+        backgroundPositionY: "40%",
       }
     );
 
@@ -500,7 +500,7 @@ ScrollTrigger.matchMedia({
           end: `bottom top`,
           scrub: 2,
         },
-        backgroundPositionY: "60%",
+        backgroundPositionY: "40%",
       }
     );
 
