@@ -343,7 +343,7 @@ ScrollTrigger.matchMedia({
 
     gsap.fromTo(
       ".hcb.d .trigger-img",
-      { backgroundPositionY: "00%" },
+      { backgroundPositionY: "0%" },
       {
         scrollTrigger: {
           trigger: ".hcb.d",
@@ -491,7 +491,7 @@ ScrollTrigger.matchMedia({
 
     gsap.fromTo(
       ".hcb.d .trigger-img",
-      { backgroundPositionY: "00%" },
+      { backgroundPositionY: "0%" },
       {
         scrollTrigger: {
           trigger: ".hcb.d",
